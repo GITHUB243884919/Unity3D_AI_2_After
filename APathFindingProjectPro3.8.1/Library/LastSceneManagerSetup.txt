@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Unity3D_AI_Book/5/Scenes/main5.unity
+  isLoaded: 1
+  isActive: 1
